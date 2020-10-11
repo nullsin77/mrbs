@@ -1,0 +1,11 @@
+{
+    "name": "root/htdocs",
+    "type": "3",
+    "authors": [
+        {
+            "name": "ruinedmaniac",
+            "email": "ruined.maniac@gmail.com"
+        }
+    ],
+    "require": {}
+}
